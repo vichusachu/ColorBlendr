@@ -32,7 +32,7 @@ Thanks to these translators and proofreaders, this project exists:
           <br />
           <sub><b>Andrea Ferrario (strange977)</b></sub></a>
         <br />
-        <sub><b>1325 words</b></sub>
+        <sub><b>1348 words</b></sub>
       </td>
       <td align="center" valign="top">
         <a href="https://crowdin.com/profile/kouzelnik3"><img alt="logo" style="width: 32px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/14254180/medium/8439fcdaec8fb0a9e7e7041f7c37b882_default.png" />
@@ -42,9 +42,9 @@ Thanks to these translators and proofreaders, this project exists:
         <sub><b>1144 words</b></sub>
       </td>
       <td align="center" valign="top">
-        <a href="https://crowdin.com/profile/dzzdrzrx"><img alt="logo" style="width: 32px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/16258428/medium/27db7af70e75426ee4c2784aae7bc4a7.png" />
+        <a href="https://crowdin.com/profile/VexoVX1"><img alt="logo" style="width: 32px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/16258428/medium/27db7af70e75426ee4c2784aae7bc4a7.png" />
           <br />
-          <sub><b>dzzdrzrx</b></sub></a>
+          <sub><b>VexoVX (VexoVX1)</b></sub></a>
         <br />
         <sub><b>956 words</b></sub>
       </td>
@@ -153,6 +153,13 @@ Thanks to these translators and proofreaders, this project exists:
         <sub><b>432 words</b></sub>
       </td>
       <td align="center" valign="top">
+        <a href="https://crowdin.com/profile/hanubeki"><img alt="logo" style="width: 32px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/13024821/medium/631bc0c6dd71f4ce29df979b78bcd589.png" />
+          <br />
+          <sub><b>hanubeki</b></sub></a>
+        <br />
+        <sub><b>368 words</b></sub>
+      </td>
+      <td align="center" valign="top">
         <a href="https://crowdin.com/profile/Osean22"><img alt="logo" style="width: 32px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/15718399/medium/c1732446f8e330322a6101dd554ab494_default.png" />
           <br />
           <sub><b>Osean22</b></sub></a>
@@ -165,13 +172,6 @@ Thanks to these translators and proofreaders, this project exists:
           <sub><b>Zan1456</b></sub></a>
         <br />
         <sub><b>343 words</b></sub>
-      </td>
-      <td align="center" valign="top">
-        <a href="https://crowdin.com/profile/hanubeki"><img alt="logo" style="width: 32px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/13024821/medium/631bc0c6dd71f4ce29df979b78bcd589.png" />
-          <br />
-          <sub><b>hanubeki</b></sub></a>
-        <br />
-        <sub><b>297 words</b></sub>
       </td>
       <td align="center" valign="top">
         <a href="https://crowdin.com/profile/mak7im01"><img alt="logo" style="width: 32px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/16278166/medium/57ebd8e9c54e419c321adb96652841cc.jpeg" />

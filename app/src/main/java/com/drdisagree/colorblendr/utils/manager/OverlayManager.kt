@@ -228,7 +228,7 @@ object OverlayManager {
                             // Notification scrim color A14+
                             setColor("system_surface_dim_dark", Color.parseColor("#0D1E2C"))
                             setColor(systemPaletteNames[3][11], Color.BLACK)
-                            setColor(systemPaletteNames[4][11], Color.BLACK)
+                            setColor(systemPaletteNames[4][11], Color.parseColor("#0D1E2C"))
                         }
 
                         if (!tintedTextEnabled()) {

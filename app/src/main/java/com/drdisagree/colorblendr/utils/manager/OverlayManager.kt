@@ -272,8 +272,8 @@ object OverlayManager {
                             setColor("shade_panel_base", Color.BLACK) // with blur
                             setColor("shade_panel_fallback", Color.BLACK) // no blur
                             // Notification scrim color A16+
-                            setColor("notification_scrim_base", Color.parseColor("#0D1E27")) // with blur
-                            setColor("notification_scrim_fallback", Color.parseColor("#0D1E27")) // no blur
+                            setColor("notification_scrim_base", Color.parseColor("#0D1E2C")) // with blur
+                            setColor("notification_scrim_fallback", Color.parseColor("#0D1E2C")) // no blur
                         }
                     }
                 }

@@ -223,7 +223,7 @@ object OverlayManager {
                             setColor("surface_header_dark_sysui", Color.BLACK)
                             if (isDarkMode) {
                                 // QS top part color A16+
-                                setColor("shade_panel_fg_color", Color.BLACK) // with blur
+                                setColor("shade_panel_fg_color", Color.parseColor("#0D1E2C")) // with blur
                             }
                             // Notification scrim color A14+
                             setColor("system_surface_dim_dark", Color.BLACK)

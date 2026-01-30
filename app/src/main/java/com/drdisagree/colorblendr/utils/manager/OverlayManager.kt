@@ -218,7 +218,7 @@ object OverlayManager {
                         }
 
                         if (pitchBlackTheme) {
-                            setColor("background_dark", Color.parseColor("#0D1E2C"))
+                            setColor("background_dark", Color.BLACK)
                             // QS top part color below A16
                             setColor("surface_header_dark_sysui", Color.parseColor("#0D1E2C"))
                             if (isDarkMode) {
@@ -227,8 +227,8 @@ object OverlayManager {
                             }
                             // Notification scrim color A14+
                             setColor("system_surface_dim_dark", Color.parseColor("#0D1E2C"))
-                            setColor(systemPaletteNames[3][11], Color.parseColor("#0D1E2C"))
-                            setColor(systemPaletteNames[4][11], Color.parseColor("#0D1E2C"))
+                            setColor(systemPaletteNames[3][11], Color.BLACK)
+                            setColor(systemPaletteNames[4][11], Color.BLACK)
                         }
 
                         if (!tintedTextEnabled()) {
@@ -269,8 +269,8 @@ object OverlayManager {
 
                         if (isDarkMode && pitchBlackTheme) {
                             // QS top part color A16+
-                            setColor("shade_panel_base", Color.parseColor("#0D1E2C")) // with blur
-                            setColor("shade_panel_fallback", Color.parseColor("#0D1E2C")) // no blur
+                            setColor("shade_panel_base", Color.parseColor("#0D102C")) // with blur
+                            setColor("shade_panel_fallback", Color.parseColor("#0D102C")) // no blur
                             // Notification scrim color A16+
                             setColor("notification_scrim_base", Color.parseColor("#0D1E2C")) // with blur
                             setColor("notification_scrim_fallback", Color.parseColor("#0D1E2C")) // no blur

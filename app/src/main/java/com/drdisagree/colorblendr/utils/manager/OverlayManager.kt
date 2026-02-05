@@ -218,7 +218,7 @@ object OverlayManager {
                         }
 
                         if (pitchBlackTheme) {
-                            setColor("background_dark", Color.BLACK)
+                            setColor("background_dark", Color.parseColor("#0D1E2C"))
                             // QS top part color below A16
                             setColor("surface_header_dark_sysui", Color.parseColor("#0D1E2C"))
                             if (isDarkMode) {
